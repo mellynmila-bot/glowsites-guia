@@ -1,0 +1,6 @@
+{
+  "name": "Glow Sites — O que está incluído no seu site",
+  "description": "Página educativa e catálogo completo de recursos incluídos nos sites da Glow Sites para profissionais da beleza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
